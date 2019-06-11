@@ -4,7 +4,7 @@ To use the Google and Yelp Maps Application:
 
 Download all files.
 
-Open terminal/bash and change to the directory in which Hog is downloaded.
+Open terminal/bash and change to the directory in which Maps is downloaded.
 
 In terminal run:
 
